@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá! 👋
+
+Esse é o PsicoData: uma plataforma colaborativa em português sobre ciência de dados e psicologia.
+
+Toda semana, um conteúdo novo sobre ciência de dados e psicologia.
+
+⚡ Blog: https://medium.com/psicodata
+
 
 <!--
 **datapsico/datapsico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
